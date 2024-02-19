@@ -15,9 +15,6 @@ CodeEditor is a basic Online Code Editor that lets you write and preview HTML, C
 ## Snap
 ![snap](snap.png)
 
-## Demo
-
-Try [CodeEditor](https://github.com/saradhambal15/codeeditor.git/) 
 
 ## Contributing
 Feel free to Contribute and Improve this by creating a Pull Request or an Issue.
